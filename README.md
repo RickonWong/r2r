@@ -11,3 +11,9 @@ Global Flight Price Ranking: What's the world's cheapest airline?[refer: https:/
   Format: .zip file<br/>
   Compressed size: 2.5 GB<br/>
   Uncompressed size: 41.2 GB<br/>
+  
+| Form  | Size | Rate |
+| --- | --- | --- |
+| Raw Data | 41.2GB | 100% |
+| Compressed Raw Data | 2.1GB | 5.09% |
+| After Preprocessed | 200MB | 0.47% |
